@@ -1,0 +1,4 @@
+﻿  prog.cpp
+D:\IT\C++\preprocesor\prog.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\IT\C++\preprocesor\prog.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  preprocesor.vcxproj -> D:\IT\C++\preprocesor\x64\Debug\preprocesor.exe
